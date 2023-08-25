@@ -2,13 +2,21 @@
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 8 people,
 AB DE VILLIERS
+
 JASPRIT BUMRAH
+
 CHRIS GAYLE
+
 MS DHONI
+
 ROHIT SHARMA
+
 SACHIN TENDULKAR
+
 SHIKHAR DHAWAN
+
 VIRAT KHOLI
+
 
 
 Here is the folder structure,
