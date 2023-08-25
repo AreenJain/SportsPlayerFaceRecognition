@@ -2,6 +2,7 @@
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 8 people,
 
+
 1)AB DE VILLIERS
 
 2)JASPRIT BUMRAH
