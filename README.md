@@ -1,21 +1,21 @@
 ![web image](https://github.com/AreenJain/SportsPlayerFaceRecognition/assets/132453646/f7342ec8-e558-457f-8b2a-d800229f3385)
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 8 people,
-AB DE VILLIERS
+1)AB DE VILLIERS
 
-JASPRIT BUMRAH
+2) JASPRIT BUMRAH
 
-CHRIS GAYLE
+3)CHRIS GAYLE
 
-MS DHONI
+4)MS DHONI
 
-ROHIT SHARMA
+5)ROHIT SHARMA
 
-SACHIN TENDULKAR
+6)SACHIN TENDULKAR
 
-SHIKHAR DHAWAN
+7)HIKHAR DHAWAN
 
-VIRAT KHOLI
+8)VIRAT KHOLI
 
 
 
