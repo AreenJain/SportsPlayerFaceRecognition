@@ -1,9 +1,10 @@
 ![web image](https://github.com/AreenJain/SportsPlayerFaceRecognition/assets/132453646/f7342ec8-e558-457f-8b2a-d800229f3385)
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 8 people,
+
 1)AB DE VILLIERS
 
-2) JASPRIT BUMRAH
+2)JASPRIT BUMRAH
 
 3)CHRIS GAYLE
 
